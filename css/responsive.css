@@ -1,0 +1,183 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-nav {
+        display: none;
+    }
+    header .btn{
+        display: none;
+    }
+    .pages_img img {
+        margin-left: -115px;
+        width: 120%;
+    }
+    .software_section1 .icon_section img {
+        width: 160%;
+    }
+    .testimonial_section .image_section img {
+        width: 100%;
+        padding-top: 50px;
+    }
+    .footer_section .title_section h2{
+        font-size: 20px;
+    }
+    .bottom_footer_section span{
+        font-size: 13px;
+    }
+    .header_content .header_img img {
+        width: 115%;
+        margin-top: 30px;
+    }
+    .mobile_menu{
+        display: block;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-nav {
+        display: none;
+    }
+    header .btn{
+        display: none;
+    }
+    .pages_img img {
+        margin-left: -160px;
+        width: 150%;
+    }
+    .software_section1 .icon_section img {
+        width: 150%;
+    }
+    .testimonial_section .image_section img {
+        width: 130%;
+        padding-top: 50px;
+        margin-left: -114px;
+    }
+    .footer_section .title_section h2{
+        font-size: 20px;
+    }
+    .bottom_footer_section span{
+        font-size: 13px;
+    }
+    .header_content .header_img img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .description h2 {
+        padding: 15px 0px;
+    }
+    .description p {
+        padding-bottom: 10px;
+    }
+    .software_section1 h2{
+        padding-bottom: 15px;
+    }
+    .footer_content p a{
+        margin-right: 0px;
+    }
+    .footer_content span{
+        font-size: 14px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    .footer_section h2,img{
+        margin-top: 40px;
+    }
+    .mobile_menu{
+        display: block;
+    }
+
+
+    
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .main-nav {
+        display: none;
+    }
+    header .btn{
+        display: none;
+    }
+    .pages_img img {
+        margin-left: -125px;
+        width: 150%;
+        margin-bottom: 100px;
+    }
+    .software_section1 .icon_section img {
+        width: 110%;
+        margin-top: 50px;
+    }
+    .testimonial_section .image_section img {
+        width: 130%;
+        padding-top: 50px;
+        margin-left: -50px;
+        padding-bottom: 50px;
+    }
+    .brand_section .col-xl-2{
+        text-align: center;
+        padding-top: 20px;
+    }
+    .brand_section .col-xl-3{
+        text-align: center;
+        padding-top: 20px;
+    }
+    h2{
+        font-size: 35px;
+    }
+    .contact_section input{
+        padding: 30px 200px 30px 20px;
+    }
+    .footer_section .title_section{
+        margin-top: 50px;
+    }
+    .footer_section{
+        padding: 80px 0px;
+    }
+    .mobile_menu{
+        display: block;
+    }
+
+
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.contact_section input{
+    padding: 20px 150px 20px 15px;
+}
+.contact_section button{
+    padding: 20px 50px;
+    margin-top: 10px;
+}
+.pages_img img {
+    margin-left: -100px;
+    width: 125%;
+    margin-bottom: 100px;
+}
+.mobile_menu{
+    display: block;
+}
+.brand_section img {
+    width: 40%;
+    padding: 10px 0px;
+}
+.contact_section input{
+    padding: 20px 100px 20px 10px;
+}
+
+}
