@@ -14,11 +14,11 @@
         display: none;
     }
     .pages_img img {
-        margin-left: -115px;
-        width: 120%;
+        margin-left: 0px;
+        width: 100%;
     }
     .software_section1 .icon_section img {
-        width: 160%;
+        width: 100%;
     }
     .testimonial_section .image_section img {
         width: 100%;
@@ -31,7 +31,7 @@
         font-size: 13px;
     }
     .header_content .header_img img {
-        width: 115%;
+        width: 100%;
         margin-top: 30px;
     }
     .mobile_menu{
@@ -53,16 +53,15 @@
         display: none;
     }
     .pages_img img {
-        margin-left: -160px;
-        width: 150%;
+        margin-left: 0px;
+        width: 100%;
     }
     .software_section1 .icon_section img {
-        width: 150%;
+        width: 100%;
     }
     .testimonial_section .image_section img {
-        width: 130%;
+        width: 100%;
         padding-top: 50px;
-        margin-left: -114px;
     }
     .footer_section .title_section h2{
         font-size: 20px;
@@ -118,18 +117,17 @@
         display: none;
     }
     .pages_img img {
-        margin-left: -125px;
-        width: 150%;
+        margin-left: 0px;
+        width: 100%;
         margin-bottom: 100px;
     }
     .software_section1 .icon_section img {
-        width: 110%;
+        width: 100%;
         margin-top: 50px;
     }
     .testimonial_section .image_section img {
-        width: 130%;
+        width: 100%;
         padding-top: 50px;
-        margin-left: -50px;
         padding-bottom: 50px;
     }
     
@@ -172,8 +170,7 @@
     margin-top: 10px;
 }
 .pages_img img {
-    margin-left: -100px;
-    width: 125%;
+    width: 100%;
     margin-bottom: 100px;
 }
 .mobile_menu{
