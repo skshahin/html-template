@@ -14,7 +14,7 @@
         display: none;
     }
     .pages_img img {
-        margin-left: 0px;
+        margin-left:0px;
         width: 100%;
     }
     .software_section1 .icon_section img {
@@ -144,6 +144,7 @@
     }
     .contact_section input{
         padding: 30px 200px 30px 20px;
+        width: 100%;
     }
     .footer_section .title_section{
         margin-top: 50px;
@@ -165,10 +166,7 @@
 .contact_section input{
     padding: 20px 150px 20px 15px;
 }
-.contact_section button{
-    padding: 20px 50px;
-    margin-top: 10px;
-}
+
 .pages_img img {
     width: 100%;
     margin-bottom: 100px;
@@ -182,6 +180,7 @@
 }
 .contact_section input{
     padding: 20px 100px 20px 10px;
+    width: 100%;
 }
 
 }
