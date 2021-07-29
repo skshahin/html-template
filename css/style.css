@@ -604,9 +604,7 @@ p{
 	display: flex;
 	align-items: flex-end;
 }
-.brand_section img{
-	width: 100%;
-}
+
 .brand_section{
 	padding-bottom: 150px;
 }
